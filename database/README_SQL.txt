@@ -1,0 +1,1 @@
+Ejecuta crear_base.sql en MySQL/phpMyAdmin. Después, desde Laravel, ejecuta php artisan migrate --seed para crear todas las tablas, llaves foráneas, índices y datos iniciales. No ejecutes migraciones antes de crear la base de datos.
